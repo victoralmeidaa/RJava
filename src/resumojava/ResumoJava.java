@@ -6,8 +6,6 @@ public class ResumoJava {
         CD cd = new CD();
         DVD dvd = new DVD();
       
-        
-        System.out.println("Ola porra");
 
     }
     

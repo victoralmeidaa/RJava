@@ -2,10 +2,11 @@ package resumojava;
 import java.util.ArrayList;
 public class DataBase {
     ArrayList<Item> itens = new ArrayList();
-    
-    public DataBase(){
-        
+
+    public DataBase() {
     }
+    
+    
     public void list(){
         int i;
         System.out.printf("\nPercorrendo o ArrayList\n");
