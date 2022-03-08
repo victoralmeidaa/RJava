@@ -16,11 +16,11 @@ public class DataBase {
             i++;
         }
     }
-    public void listCD(){
-        
+   public void listCD(){
+        System.out.println("Listar CD: ");
     }
     public void listDVD(){
-        
+        System.out.println("Listar DVD: ");
     }
     
 }

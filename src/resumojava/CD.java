@@ -16,6 +16,8 @@ public class CD extends Item {
         this.faixas = faixas;
     }
     // METODOS 
-    
-    
+    @Override
+    public void listCD(){
+        System.out.println("Listar CD: ");
+    }
 }

@@ -1,5 +1,5 @@
 package resumojava;
-public class Item {
+public class Item extends DataBase{
     private String titulo;
     private Double duracao;
     private String comentarios;
