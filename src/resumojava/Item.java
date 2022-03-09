@@ -25,8 +25,9 @@ public class Item extends DataBase{
     }
     
     // MEDOTOS 
-    public void print(){
-        
+    @Override
+    public void list(){
+        System.out.println("Lista Itens: ");
     }
 
     @Override

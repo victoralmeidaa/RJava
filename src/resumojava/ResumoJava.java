@@ -5,7 +5,10 @@ public class ResumoJava {
         Item it = new Item();
         CD cd = new CD();
         DVD dvd = new DVD();
-      
+        
+        it.list();
+        cd.listCD();
+        dvd.listDVD();
 
     }
     

@@ -1,5 +1,5 @@
 package resumojava;
-public class DVD extends Item {
+public final class DVD extends Item {
     private String diretor;
     // GET SET
     public String getDiretor() {

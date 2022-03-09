@@ -1,5 +1,5 @@
 package resumojava;
-public class CD extends Item {
+public final class CD extends Item {
     private String artista;
     private String faixas;
     // GET & SET
